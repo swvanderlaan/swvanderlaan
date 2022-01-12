@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I once dyed my hair blond and worked at a start-up biotech <img src="https://user-images.githubusercontent.com/8877879/149102619-56d82e7c-5b01-4c9e-870a-3c16afd19c42.png" width="75" height="14" />...
 
-Copyright since 1979 | Sander W. van der Laan
+---
+<sup>_Copyright since 1979 | Sander W. van der Laan | [swvanderlaan.github.io](https://swvanderlaan.github.io)._</sup>
