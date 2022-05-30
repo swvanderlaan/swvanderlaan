@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ I am a **biologist** turned **geneticist** and **bioinformatician** interested in **medical problems** with a passion for **✨ OpenScience ✨**. 
+✨ I am a **biologist** turned **geneticist** and **bioinformatician** interested in **medical problems** with a passion for **✨ OpenScience ✨**
 
 🔭 My research interest is focused on the genetic causes of **atherosclerosis** underlying cardiovascular diseases. With my work I ultimately aim to move from genetic loci identified in large-scale **genome-wide association studies** to novel therapeutic targets and (surrogate) biomarkers for atherosclerotic diseases through extensive _in silico_, and _in vitro_ modelling.
 
